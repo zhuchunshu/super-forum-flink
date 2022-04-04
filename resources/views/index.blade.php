@@ -21,7 +21,7 @@
                                             <span class="text-truncate">{{$data->link}}</span>
                                         </div>
                                         <div class="col-auto">
-                                            <button @@click="remove({{$data->id}})" class="btn btn-sm">删除</button>
+                                            <button @@click="remove({{$data->id}})" class="btn btn-dark">删除</button>
                                         </div>
                                     </div>
                                 </div>

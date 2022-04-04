@@ -12,7 +12,7 @@ menu()->add(5701,[
    <circle cx="17" cy="5" r="2"></circle>
    <path d="M15 22v-4h-2l2 -6a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1l2 6h-2v4"></path>
 </svg>',
-	'url' => ''
+	'url' => '/admin/Flink'
 ]);
 
 menu()->add(5702,[

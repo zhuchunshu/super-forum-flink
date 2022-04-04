@@ -1,5 +1,5 @@
 @if(count(getFlink()))
-    <div class="col-md-10">
+    <div class="col-md-12">
         <div class="card">
             <div class="card-status-top bg-green"></div>
             <div class="card-body">
